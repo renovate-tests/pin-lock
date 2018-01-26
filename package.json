@@ -1,0 +1,10 @@
+{
+  "name": "pin-lock",
+  "version": "0.0.1",
+  "dependencies": {
+    "chalk": "~2.0.0"
+  },
+  "renovate": {
+    "pinVersions": false
+  }
+}
