@@ -2,11 +2,11 @@
   "name": "pin-lock",
   "version": "0.0.1",
   "dependencies": {
-    "chalk": "^2.0.0"
+    "chalk": "2.0.1"
   },
   "devDependencies": {
     "ansi-styles": "3.1.0",
-    "left-pad": "^1.0.0"
+    "left-pad": "1.2.0"
   },
   "renovate": {
     "pinVersions": true
