@@ -5,6 +5,7 @@
     "chalk": "^2.0.0"
   },
   "devDependencies": {
+    "ansi-styles": "3.1.0",
     "left-pad": "^1.0.0"
   },
   "renovate": {
