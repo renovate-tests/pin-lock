@@ -5,6 +5,6 @@
     "chalk": "~2.0.0"
   },
   "renovate": {
-    "pinVersions": false
+    "pinVersions": true
   }
 }
